@@ -1,0 +1,15 @@
+[
+  {
+    "id": "the-last-witness",
+    "title": "The Last Witness",
+    "subtitle": "An Ethan Cole Crime Thriller",
+    "author": "Original English thriller",
+    "description": "A murder in Los Angeles reopens a disappearance from 2009. Detective Ethan Cole follows the evidence into his father’s past.",
+    "cover": "covers/the-last-witness.svg",
+    "href": "books/the-last-witness/index.html",
+    "publishedChapters": 3,
+    "plannedChapters": 30,
+    "status": "In progress",
+    "genre": "Crime · Mystery · Thriller"
+  }
+]
